@@ -1,0 +1,466 @@
+{
+    "Hana": {
+        "name": "Hana",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/flower-bird-scroll/"
+    },
+    "Ichimokuren": {
+        "name": "Ichimokuren",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/one-eyed/"
+    },
+    "Yoto Hime": {
+        "name": "Yoto Hime",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/princess-of-evil-blade/"
+    },
+    "Aoandon": {
+        "name": "Aoandon",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/blue-lantern/"
+    },
+    "Ryomen": {
+        "name": "Ryomen",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/two-faced-buddha/"
+    },
+    "Ootengu": {
+        "name": "Ootengu",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/great-tengu/"
+    },
+    "Enma": {
+        "name": "Enma",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/hell-lord/"
+    },
+    "Shishio": {
+        "name": "Shishio",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/deer-boy/"
+    },
+    "Shuten Doji": {
+        "name": "Shuten Doji",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/shuten-doji/"
+    },
+    "Arakawa Lord": {
+        "name": "Arakawa Lord",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/lord-of-arakawa/"
+    },
+    "Ibaraki Doji": {
+        "name": "Ibaraki Doji",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/ibara-doji/"
+    },
+    "Shiro": {
+        "name": "Shiro",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/hakudoshi/"
+    },
+    "Kuro": {
+        "name": "Kuro",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/kurodoshi/"
+    },
+    "Yaksha": {
+        "name": "Yaksha",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/yaksa/"
+    },
+    "Aobozu": {
+        "name": "Aobozu",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/blue-monk/"
+    },
+    "Hannya": {
+        "name": "Hannya",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/prajna/"
+    },
+    "Sakura": {
+        "name": "Sakura",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/sakura-fairy/"
+    },
+    "Jorogumo": {
+        "name": "Jorogumo",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/spider-woman/"
+    },
+    "Kamaitachi": {
+        "name": "Kamaitachi",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/kamaitachi/"
+    },
+    "Maestro": {
+        "name": "Maestro",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/evil-musician/"
+    },
+    "Yumekui": {
+        "name": "Yumekui",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/dream-eater/"
+    },
+    "Hangan": {
+        "name": "Hangan",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/hell-judge/"
+    },
+    "Mouba": {
+        "name": "Mouba",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/hell-guide/"
+    },
+    "Puppeteer": {
+        "name": "Puppeteer",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/puppeteer/"
+    },
+    "Umibozu": {
+        "name": "Umibozu",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/sea-monk/"
+    },
+    "Kuro Mujou": {
+        "name": "Kuro Mujou",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/hell-agent-black/"
+    },
+    "Shiro Mujou": {
+        "name": "Shiro Mujou",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/hell-agent-white/"
+    },
+    "Hone Onna": {
+        "name": "Hone Onna",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/bone-maiden/"
+    },
+    "Hououka": {
+        "name": "Hououka",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/phoenix/"
+    },
+    "Futakuchi": {
+        "name": "Futakuchi",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/two-mouthed/"
+    },
+    "Ubume": {
+        "name": "Ubume",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/ubume/"
+    },
+    "Momiji": {
+        "name": "Momiji",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/maple-maiden/"
+    },
+    "Youko": {
+        "name": "Youko",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/fox-demon/"
+    },
+    "Momo": {
+        "name": "Momo",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/peach-fairy/"
+    },
+    "Hakuro": {
+        "name": "Hakuro",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/white-wolf/"
+    },
+    "Yuki Onna": {
+        "name": "Yuki Onna",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/snow-maiden/"
+    },
+    "Kyonshi Ani": {
+        "name": "Kyonshi Ani",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/jumping-bro-older/"
+    },
+    "Ebisu": {
+        "name": "Ebisu",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/ebisu/"
+    },
+    "Vampira": {
+        "name": "Vampira",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/princess-vamp/"
+    },
+    "Inugami": {
+        "name": "Inugami",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/inugami/"
+    },
+    "Kiyohime": {
+        "name": "Kiyohime",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/kiyohime/"
+    },
+    "Koroka": {
+        "name": "Koroka",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/ancient-lantern/"
+    },
+    "Ushi no Toki": {
+        "name": "Ushi no Toki",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/midnight-maiden/"
+    },
+    "Kubinashi": {
+        "name": "Kubinashi",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/headless/"
+    },
+    "Samurai X": {
+        "name": "Samurai X",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/soldier-sacrifice/"
+    },
+    "Zashiki": {
+        "name": "Zashiki",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/room-goblin/"
+    },
+    "Gaki": {
+        "name": "Gaki",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/hunger-ghoul/"
+    },
+    "Ame Onna": {
+        "name": "Ame Onna",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/rain-maiden/"
+    },
+    "Warrior Soul": {
+        "name": "Warrior Soul",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/samurai-spirit/"
+    },
+    "Kodokushi": {
+        "name": "Kodokushi",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/gu-wizard/"
+    },
+    "Doujo": {
+        "name": "Doujo",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/girl-sacrifice/"
+    },
+    "Tesso": {
+        "name": "Tesso",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/iron-rat/"
+    },
+    "Kyonshi Imoto": {
+        "name": "Kyonshi Imoto",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/jumping-sis-younger/"
+    },
+    "Kyonshi Ototo": {
+        "name": "Kyonshi Ototo",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/jumping-bro-younger/"
+    },
+    "Tanuki": {
+        "name": "Tanuki",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/raccoon/"
+    },
+    "Chocho": {
+        "name": "Chocho",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/butterfly-fairy/"
+    },
+    "Shouzu": {
+        "name": "Shouzu",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/shozu/"
+    },
+    "Koi": {
+        "name": "Koi",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/fish-fairy/"
+    },
+    "Yamausagi": {
+        "name": "Yamausagi",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/mountain-rabbit/"
+    },
+    "Oguna": {
+        "name": "Oguna",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/boy-sacrifice/"
+    },
+    "Kyuumei Neko": {
+        "name": "Kyuumei Neko",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/nine-life-cat/"
+    },
+    "Kusa": {
+        "name": "Kusa",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/glowing-grass/"
+    },
+    "Kanko": {
+        "name": "Kanko",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/pipe-fox/"
+    },
+    "Hitotsume": {
+        "name": "Hitotsume",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/one-eyed-monk/"
+    },
+    "Mio": {
+        "name": "Mio",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/three-tailed-fox/"
+    },
+    "Jikikaeru": {
+        "name": "Jikikaeru",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/frog-pot/"
+    },
+    "Satori": {
+        "name": "Satori",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/bigfoot/"
+    },
+    "Yamawaro": {
+        "name": "Yamawaro",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/mountain-goblin/"
+    },
+    "Kamikui": {
+        "name": "Kamikui",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/hair-eater/"
+    },
+    "Karasu Tengu": {
+        "name": "Karasu Tengu",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/crow-tengu/"
+    },
+    "Kappa": {
+        "name": "Kappa",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/kappa/"
+    },
+    "Umbrella": {
+        "name": "Umbrella",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/umbrella-ghost/"
+    },
+    "Akashita": {
+        "name": "Akashita",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/red-tongue/"
+    },
+    "Parasite": {
+        "name": "Parasite",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/parasite-ghost/"
+    },
+    "Grave Digger": {
+        "name": "Grave Digger",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/grave-digger/"
+    },
+    "Blue Imp": {
+        "name": "Blue Imp",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/ghost-minion-blue/"
+    },
+    "Yellow Imp": {
+        "name": "Yellow Imp",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/ghost-minion-yellow/"
+    },
+    "Red Imp": {
+        "name": "Red Imp",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/ghost-minion-red/"
+    },
+    "Green Imp": {
+        "name": "Green Imp",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/ghost-minion-green/"
+    },
+    "Hahakigami": {
+        "name": "Hahakigami",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/brusher/"
+    },
+    "Nurikabe": {
+        "name": "Nurikabe",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/stone-wall/"
+    },
+    "Lantern Boy": {
+        "name": "Lantern Boy",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/lantern-carrier/"
+    },
+    "Lantern Soul": {
+        "name": "Lantern Soul",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/lantern-ghost/"
+    },
+    "Enenra": {
+        "name": "Enenra",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/smoky-maiden/"
+    },
+    "Kaguya": {
+        "name": "Kaguya",
+        "guidePage": "https://onmyojiguide.com/princess-kaguya/"
+    },
+    "Susabi": {
+        "name": "Susabi",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/kojin/"
+    },
+    "Mannendake": {
+        "name": "Mannendake",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/ancient-bamboo/"
+    },
+    "Kingyo": {
+        "name": "Kingyo",
+        "guidePage": "https://onmyojiguide.com/princess-goldfish/"
+    },
+    "Chin": {
+        "name": "Chin",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/snake-eater/"
+    },
+    "Itsumade": {
+        "name": "Itsumade",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/death-mourner/"
+    },
+    "Hako Shoujo": {
+        "name": "Hako Shoujo",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/evil-box-maiden/"
+    },
+    "Higanbana": {
+        "name": "Higanbana",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/unworldly-flower/"
+    },
+    "Komatsu": {
+        "name": "Komatsu",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/squirrelly/"
+    },
+    "Usagi": {
+        "name": "Usagi",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/rabbit-kid/"
+    },
+    "Bukkuman": {
+        "name": "Bukkuman",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/bookman/"
+    },
+    "Yuki": {
+        "name": "Yuki",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/yuki/"
+    },
+    "Hozuki": {
+        "name": "Hozuki",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/hozuki/"
+    },
+    "Oko": {
+        "name": "Oko",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/oko/"
+    },
+    "Maki & Karashi": {
+        "name": "Maki & Karashi",
+        "guidePage": "https://onmyojiguide.com/peach-karashi/"
+    },
+    "Kosodenote": {
+        "name": "Kosodenote",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/kosodenote/"
+    },
+    "Oitsuki": {
+        "name": "Oitsuki",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/oitsuki/"
+    },
+    "Medicine Seller": {
+        "name": "Medicine Seller",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/medicine-seller/"
+    },
+    "Juzu": {
+        "name": "Juzu",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/juzu/"
+    },
+    "Kisei": {
+        "name": "Kisei",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/kisei/"
+    },
+    "Inuyasha": {
+        "name": "Inuyasha",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/inuyasha/"
+    },
+    "Sesshomaru": {
+        "name": "Sesshomaru",
+        "guidePage": "https://onmyojiguide.com/sesshomaru/"
+    },
+    "Tamamonomae": {
+        "name": "Tamamonomae",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/tamamonomae/"
+    },
+    "Dodomeki": {
+        "name": "Dodomeki",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/dodomeki/"
+    },
+    "Hiyoribo": {
+        "name": "日和坊",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/hiyoribo/"
+    },
+    "Miketsu": {
+        "name": "Miketsu",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/miketsu/"
+    },
+    "Onikiri": {
+        "name": "Onikiri",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/onikiri/"
+    },
+    "Yamakaze": {
+        "name": "Yamakaze",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/yamakaze/"
+    },
+    "Kikyo": {
+        "name": "Kikyo",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/kikyo/"
+    },
+    "Hakuzosu": {
+        "name": "Hakuzosu",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/hakosozu/"
+    },
+    "Jr. Ootengu": {
+        "name": "Jr. Ootengu",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/jr-ootengu/"
+    },
+    "Menreiki": {
+        "name": "Menreiki",
+        "guidePage": "https://onmyojiguide.com/shikigami-list/menreiki/"
+    }
+}
