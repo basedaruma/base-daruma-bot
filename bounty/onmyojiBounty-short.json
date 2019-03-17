@@ -1,0 +1,258 @@
+{
+    "LanternSoul": {
+        "name": "Lantern Soul",
+        "bountyInfo": "[3] Secret - Aoandon's Tale - 1"
+    },
+    "Akashita": {
+        "name": "Akashita",
+        "bountyInfo": "[3] Secret - Aoandon's Tale - 3"
+    },
+    "RedImp": {
+        "name": "Red Imp",
+        "bountyInfo": "[3] Secret - Youku's Secret - 1"
+    },
+    "GreenImp": {
+        "name": "Green Imp",
+        "bountyInfo": "[8] Encounter - Shuzu\n[3] Secret - Vampira's Secret - 3"
+    },
+    "YellowImp": {
+        "name": "Yellow Imp",
+        "bountyInfo": "[3] Secret - Vampira's Secret - 3"
+    },
+    "Hahakigami": {
+        "name": "Hahakigami",
+        "bountyInfo": "[3] Secret - Aoandan's Tale - 2"
+    },
+    "BlueImp": {
+        "name": "Blue Imp",
+        "bountyInfo": "[3] Secret - Youko's Secret - 5"
+    },
+    "Parasite": {
+        "name": "Parasite",
+        "bountyInfo": "[3] Secret - Youku's Secret - 2"
+    },
+    "Umbrella": {
+        "name": "Umbrella",
+        "bountyInfo": "[3] Secret - Youku's Secret - 3"
+    },
+    "GraveDigger": {
+        "name": "Grave Digger",
+        "bountyInfo": "[3] Secret - Youku's Secret - 2"
+    },
+    "LanternBoy": {
+        "name": "Lantern Boy",
+        "bountyInfo": "[3] Secret - Vampira's Secret - 2"
+    },
+    "Nurikabe": {
+        "name": "Nurikabe",
+        "bountyInfo": "[6] Chapter - 14 - The Three Nurikabes"
+    },
+    "BlackPanther": {
+        "name": "Black Panther",
+        "bountyInfo": "[3] Secret - Riverside Tales - 4"
+    },
+    "ZombieDog": {
+        "name": "Zombie Dog",
+        "bountyInfo": "[3] Secret - Aoandan's Tale - 1"
+    },
+    "Mio": {
+        "name": "Mio",
+        "bountyInfo": "[3] Secret - Summer's Poem - 6"
+    },
+    "Zashiki": {
+        "name": "Zashiki",
+        "bountyInfo": "[3] Secret - Cry Me a River - 1"
+    },
+    "Koi": {
+        "name": "Koi",
+        "bountyInfo": "[3] Chapter - 7 - First Koi\n[2] Secret - Summer Poem - 5"
+    },
+    "KyuumeiNeko": {
+        "name": "Kyuumei Neko",
+        "bountyInfo": "[4] Secret - Vampira's Secret - 4"
+    },
+    "Tanuki": {
+        "name": "Tanuki",
+        "bountyInfo": "[3] Secret - Tip of the Storm - 2"
+    },
+    "Kappa": {
+        "name": "Kappa",
+        "bountyInfo": "[5] Secret - Umibozu's Secret - 5"
+    },
+    "Oguna": {
+        "name": "Oguna",
+        "bountyInfo": "[3] Secret - Aoandan's Tale - 3"
+    },
+    "Doujo": {
+        "name": "Doujo",
+        "bountyInfo": "[3] Secret - Arakawa's Fury - 2"
+    },
+    "Gaki": {
+        "name": "Gaki",
+        "bountyInfo": "[4] Secret - Maple's Bond - 1"
+    },
+    "Kodokushi": {
+        "name": "Kodokushi",
+        "bountyInfo": "[3] Secret - Summer Poem - 3"
+    },
+    "KarasuTengu": {
+        "name": "Karasu Tengu",
+        "bountyInfo": "[4] Secret - Arakawa's Fury - 4"
+    },
+    "Kamikui": {
+        "name": "Kamikui",
+        "bountyInfo": "[4] Secret - Shishio's Wake - 6"
+    },
+    "Kusa": {
+        "name": "Kusa",
+        "bountyInfo": "[4] Sougenbi\n[3] Discovery - Kusa\n[5] Secret - Summer Poem - 8"
+    },
+    "WarriorSoul": {
+        "name": "Warrior Soul",
+        "bountyInfo": "[3] Secret - Riverside Tales - 3"
+    },
+    "KyonshiImoto": {
+        "name": "Kyonshi Imoto",
+        "bountyInfo": "[2] Secret - Vampira's Secret - 6"
+    },
+    "SamuraiX": {
+        "name": "Samurai X",
+        "bountyInfo": "[4] Secret - Cry Me a River - 7"
+    },
+    "Ushino Toki": {
+        "name": "Ushi no Toki",
+        "bountyInfo": "[3] Chapter - 21 - The First Kamikui\n[2] Secret - Riverside Tales - 4"
+    },
+    "Hitotsume": {
+        "name": "Hitotsume",
+        "bountyInfo": "[3] Chapter - 11 - The Second Warrior Soul"
+    },
+    "Tesso": {
+        "name": "Tesso",
+        "bountyInfo": "[16] Encounter - Coin Monster\n[2]Secret - Maple's Bond - 5"
+    },
+    "Shuzu": {
+        "name": "Shuzu",
+        "bountyInfo": "[3] Encounter - Shuzu\n[2] Secret - Riverside Tales - 8"
+    },
+    "AmeOnna": {
+        "name": "Ame Onna",
+        "bountyInfo": "[3] Secret - Secret of the Evil Blade - 3"
+    },
+    "Kanko": {
+        "name": "Kanko",
+        "bountyInfo": "[4] Secret - Maple's Bond - 1"
+    },
+    "Yamausagi": {
+        "name": "Yamausagi",
+        "bountyInfo": "[4] Secret - Arakawa's Fury - 5"
+    },
+    "Chocho": {
+        "name": "Chocho",
+        "bountyInfo": "[3] Secret - Secret of the Evil Blade - 2"
+    },
+    "Yamawaro": {
+        "name": "Yamawaro",
+        "bountyInfo": "[4] Secret - Youku's Secret - 4"
+    },
+    "Kubinashi": {
+        "name": "Kubinashi",
+        "bountyInfo": "[3] Secret - Cry Me a River - 2"
+    },
+    "Satori": {
+        "name": "Satori",
+        "bountyInfo": "[4] Secret - Aoandan's Tale - 4"
+    },
+    "Jikikaeru": {
+        "name": "Jikikaeru",
+        "bountyInfo": "[2] Secret - Aoandan's Tale - 5"
+    },
+    "YukiOnna": {
+        "name": "Yuki Onna",
+        "bountyInfo": "[4] Secret - Arakawa's Fury - 6"
+    },
+    "Inugami": {
+        "name": "Inugami",
+        "bountyInfo": "[1] Soul - 4\n[1] Secret - Vampira's Secret - 5"
+    },
+    "HoneOnna": {
+        "name": "Hone Onna",
+        "bountyInfo": "[4] Secret - Cry Me a River - 4"
+    },
+    "Umibozu": {
+        "name": "Umibozu",
+        "bountyInfo": "[3] Encounter - Umibozu\n[3] Chapter - 24 - The Two Vampiras\n[5] Secret - Arakawa's Fury - 8"
+    },
+    "KyonshiAni": {
+        "name": "Kyonshi Ani",
+        "bountyInfo": "[3] Chapter - 24 - The Two Jouogumo"
+    },
+    "Puppeteer": {
+        "name": "Puppeteer",
+        "bountyInfo": "[2] Secret - Vampira's Secret - 5"
+    },
+    "Momiji": {
+        "name": "Momiji",
+        "bountyInfo": "[2] Secret - Summer Poem - 7"
+    },
+    "Hangan": {
+        "name": "Hangan",
+        "bountyInfo": "[3] Secret - Umbrella's Guard - 7"
+    },
+    "Sakura": {
+        "name": "Sakura",
+        "bountyInfo": "[2] Secret - Umibozu's Secret - 9\n[1] Chapter - 8 - The Two Sakura"
+    },
+    "Yumekui": {
+        "name": "Yumekui",
+        "bountyInfo": "[2] Sol - 4"
+    },
+    "Hououga": {
+        "name": "Hououga",
+        "bountyInfo": "[3] Discovery - Hououga\n[1] Secret - Riverside Tales - 5"
+    },
+    "Momo": {
+        "name": "Momo",
+        "bountyInfo": "[5] Secret - Tip of the Storm - 8"
+    },
+    "Mouba": {
+        "name": "Mouba",
+        "bountyInfo": "[3] Secret - Umbrella's Guard - 9\n[2] Soul - 5"
+    },
+    "Vampira": {
+        "name": "Vampira",
+        "bountyInfo": "[2] Secret - Riverside Tales - 8"
+    },
+    "KuroMujou": {
+        "name": "Kuro Mujou",
+        "bountyInfo": "[3] Demon Seal - Kuro Mujou\n[3] Secret - Riverside Tales - 6\n[2] Chapter - 24 - The Three Kiyohime"
+    },
+    "ShiroMujou": {
+        "name": "Shiro Mujou",
+        "bountyInfo": "[2] Secret - Tip of the Storm - 6"
+    },
+    "Kamaitachi": {
+        "name": "Kamaitachi",
+        "bountyInfo": "[14] Challenge - Chapter 18 - Kamaitachi\n[2] Secret - Summer Poem - 7"
+    },
+    "Youko": {
+        "name": "Youko",
+        "bountyInfo": "[5] Secret - Tip of the Storm - 8"
+    },
+    "Ootengu": {
+        "name": "Ootengu",
+        "bountyInfo": "[2] Soul - 10\n[2] Secret - Tip of the Storm - 8"
+    },
+    "ShutenDoji": {
+        "name": "Shuten Doji",
+        "bountyInfo": "[2] Secret - Umbrella's Guard - 8"
+    },
+    "Enma": {
+        "name": "Enma",
+        "bountyInfo": "[1] Soul - 6"
+    },
+    "ArakawaLord": {
+        "name": "Arakawa Lord",
+        "bountyInfo": "[2] Soul - 7\n[2] Secret - Riverside Tales - 8"
+    }
+}
